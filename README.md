@@ -2,7 +2,7 @@
 
 # Christopher Carroll Smith
 
-PhD historian turned AI automation engineer, technical writer, and business consultant. President of [Promptly Technologies, LLC](https://promptlytechnologies.com/), specializing in AI-powered web applications and autonomous agents powered by Python + Typescript + React. I also build R/Python libraries and forecasting models.
+PhD historian turned AI automation engineer, technical writer, and business consultant. President of [Promptly Technologies, LLC](https://promptlytechnologies.com/), specializing in AI-powered web applications and autonomous agents powered by Python + Typescript + React. Creator of the [Scribert](https://scribert.com) voice notes app. I also build R/Python libraries and forecasting models.
 
 ## My pitch
 
