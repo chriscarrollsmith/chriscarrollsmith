@@ -4,7 +4,7 @@
 
 # Christopher Carroll Smith
             
-President of [Promptly Technologies, LLC](https://promptlytechnologies.com/) and creator of [Scribert](https://scribert.com), your AI speech-to-text companion.
+President of [Promptly Technologies, LLC](https://promptlytechnologies.com/) and creator of [Scribert](https://scribert.com), your AI speech-to-text companion. Check out my [personal website](https://christophercarrollsmith.com/) and my blogs, [Modeling Markets](https://modelingmarkets.substack.com/) and [A Knowledge Worker's Guide to the Singularity](https://knowledgeworkersguide.substack.com/).
 
 ## Open-source projects I'm proud of
 
@@ -15,27 +15,27 @@ President of [Promptly Technologies, LLC](https://promptlytechnologies.com/) and
 
 ### Major contributions to popular open-source projects
 
-- [Full server-side rendering support for the Next.js Subscription Payments SaaS Starter](https://github.com/vercel/nextjs-subscription-payments)
-- [Comprehensive redesign and unit testing of the International Monetary Fund API R client library](https://github.com/christophergandrud/imfr)
+- Full server-side rendering support for the [Next.js Subscription Payments SaaS Starter](https://github.com/vercel/nextjs-subscription-payments)
+- Comprehensive redesign and unit testing of the [International Monetary Fund API R client library](https://github.com/christophergandrud/imfr)
 
 ### SDKs
 
-- [Epson Connect API Javascript client library](https://github.com/chriscarrollsmith/epson-connect-js)
-- [International Monetary Fund API Python client library](https://github.com/chriscarrollsmith/imfp)
+- Epson Connect API [Javascript client library](https://github.com/chriscarrollsmith/epson-connect-js)
+- International Monetary Fund API [Python client library](https://github.com/chriscarrollsmith/imfp)
 
 ### Websites
 
-- [Promptly Technologies comic book-style Typescript React website with Zazzle product syndication](https://github.com/Promptly-Technologies-LLC/Promptly-Technologies-LLC.github.io)
-- [Portfolio and bookings Javascript React website with Calendly integration](https://github.com/chriscarrollsmith/christophercarrollsmith.com)
-- [Educational website with Archive.org books and Github Actions blog syndication](https://github.com/babafaqirchand/babafaqirchand.github.io)
+- Promptly Technologies, LLC [comic book-style Typescript React website with Zazzle product syndication](https://github.com/Promptly-Technologies-LLC/Promptly-Technologies-LLC.github.io)
+- Portfolio and bookings [Javascript React website with Calendly integration](https://github.com/chriscarrollsmith/christophercarrollsmith.com)
+- Educational [Javascript website with Archive.org books and Github Actions blog syndication](https://github.com/babafaqirchand/babafaqirchand.github.io)
 
 ### Github Actions
 
-- [RSS Fetch Javascript Action](https://github.com/Promptly-Technologies-LLC/rss-fetch-action)
+- RSS Fetch [Javascript action for Github Pages blog syndication](https://github.com/Promptly-Technologies-LLC/rss-fetch-action)
 
 ### Data analysis
 
-- [Modeling markets: Financial and economic data visualization in R and RMarkdown](https://github.com/chriscarrollsmith/modelingmarkets)
+- Modeling markets: [Financial and economic data visualization in R and RMarkdown](https://github.com/chriscarrollsmith/modelingmarkets)
 
 ## Open to work!
 
