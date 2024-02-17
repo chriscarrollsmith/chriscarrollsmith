@@ -1,7 +1,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40px" />
 
-![Codewars](https://www.codewars.com/users/chriscarrollsmith/badges/small)
-
 # Christopher Carroll Smith
             
 President of [Promptly Technologies, LLC](https://promptlytechnologies.com/) and creator of [Scribert](https://scribert.com), your AI speech-to-text companion. Check out my [personal website](https://christophercarrollsmith.com/) and my blogs, [Modeling Markets](https://modelingmarkets.substack.com/) and [A Knowledge Worker's Guide to the Singularity](https://knowledgeworkersguide.substack.com/).
