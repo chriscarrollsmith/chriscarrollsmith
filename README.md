@@ -27,7 +27,7 @@ President of [Promptly Technologies, LLC](https://promptlytechnologies.com/) and
 
 - Promptly Technologies, LLC [comic book-style Typescript React website with Zazzle product syndication](https://github.com/Promptly-Technologies-LLC/Promptly-Technologies-LLC.github.io)
 - Portfolio and bookings [Javascript React website with Calendly integration](https://github.com/chriscarrollsmith/christophercarrollsmith.com)
-- Educational [Javascript website with Archive.org books and Github Actions blog syndication](https://github.com/babafaqirchand/babafaqirchand.github.io)
+- fastapi-jinja2-postgres [webapp template with custom auth and role-based access control](https://github.com/babafaqirchand/babafaqirchand.github.io)
 
 ### Github Actions
 
