@@ -33,10 +33,6 @@ President of [Promptly Technologies, LLC](https://promptlytechnologies.com/) and
 
 - RSS Fetch [Javascript action for Github Pages blog syndication](https://github.com/Promptly-Technologies-LLC/rss-fetch-action)
 
-### Data analysis
-
-- Modeling markets: [Financial and economic data visualization in R and RMarkdown](https://github.com/chriscarrollsmith/modelingmarkets)
-
 ## Open to work!
 
 I primarily build AI-powered web applications and API toolkits in Python and Typescript with the Next.js and Supabase frameworks. I also do some consulting on AI business applications. [Book a 15-minute consultation with me](https://christophercarrollsmith.com/#book) to chat about how early AI adoption can help insulate your business from disruption or even help you find an edge.
